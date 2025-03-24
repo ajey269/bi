@@ -1,3 +1,8 @@
+Aim: Write a Python program to read data from a CSV file, perform
+simple data analysis, and generate basic insights. (Use Pandas is a
+Python library).
+
+
 import pandas as pd
 file_path = 'data.csv'
 data = pd.read_csv(file_path)
